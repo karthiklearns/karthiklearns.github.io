@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcast
-permalink: /podcast/
+permalink: /Podcasts/
 ---
 
 This is a placeholder for my podcasts page. 
