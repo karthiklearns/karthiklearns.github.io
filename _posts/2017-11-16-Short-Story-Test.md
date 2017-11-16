@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Story Test
+title: A Christmas Story
 category: Short Story
 ---
 
-This is a placeholder post for the short story section. 
+Something something stole your fruit. 

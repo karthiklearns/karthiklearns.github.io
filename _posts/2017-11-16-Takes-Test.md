@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Takes Test
+title: The Hottest Take
+category: Takes
 ---
 
-This is a placeholder post for the takes section. 
+The earth is flat. 
