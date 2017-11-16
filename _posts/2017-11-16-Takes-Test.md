@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Takes Test
+category: Takes
 tag: Takes
 ---
 
