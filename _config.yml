@@ -2,6 +2,7 @@
 title: Karthik's Blog
 author: Karthik Srinivasan
 email: karthiks.625@gmail.com
+permalink: /:category/:title.html
 
 # Build settings
 markdown: kramdown
