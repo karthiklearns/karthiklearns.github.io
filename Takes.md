@@ -4,9 +4,6 @@ title: Takes
 permalink: /Takes/
 ---
 
-This is a placeholder for my Takes page. 
-
-
 <div class="posts">
   {% for post in site.categories.Takes %}
   <div class="post">
