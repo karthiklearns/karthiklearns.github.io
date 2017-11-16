@@ -6,4 +6,5 @@ permalink: /:categories/:title.html
 
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
+
+# theme: jekyll-athena
