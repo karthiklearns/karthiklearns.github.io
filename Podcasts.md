@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Podcast
+title: Podcasts
 permalink: /Podcasts/
 ---
 
