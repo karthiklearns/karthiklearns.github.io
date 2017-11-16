@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+# basic options
+title: Karthik's Blog
+author: Karthik Srinivasan
+email: karthiks.625@gmail.com
+description: Personal Blog
+twitter_username: @TheKarthikS
+github_username:  karthiklearns
+
+# Build settings
+markdown: kramdown
+theme: minima
