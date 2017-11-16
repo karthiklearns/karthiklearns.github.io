@@ -2,21 +2,24 @@
 layout: default
 ---
 
-<article class="container mx-auto px-2" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="mt-4 mb-2 clearfix header-text">
-    <h1 class="h0 inline-block py-2 mt-4 header-title">{{ page.title }}</h1>
-    <div class="clearfix mb-4 py-1">
-      <p class="h4 lh-condensed"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
-      <div class="col-1 sm-width-full border-top-thick">
-      </div>
-    </div>
-  </div>
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
 
-  <div class="prose py-4" itemprop="articleBody">
-      {{ content }}
-  </div>
-</article>
-
-<div class="container mx-auto px-2 py-2 clearfix">
-  {% include previous-next.html %}
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
-<article class="container mx-auto px-2">
 
-  {% include page_heading.html %}
-
-  <div class="prose mb-4 py-4">
-    {{ content }}
-  </div>
-</article>
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
