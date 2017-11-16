@@ -5,4 +5,4 @@ email: karthiks.625@gmail.com
 
 # Build settings
 markdown: kramdown
-theme: athena
+theme: minima
