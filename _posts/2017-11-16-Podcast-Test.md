@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Podcast
-category: Podcast
+category: Podcasts
 permalink: /Podcast/The-Best-Podcast
 ---
 
