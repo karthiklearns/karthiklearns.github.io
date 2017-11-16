@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Short Stories
-permalink: /ShortStories/
+title: Fiction
+permalink: /Fiction/
 ---
 
 This is a placeholder page for Short Stories. 
