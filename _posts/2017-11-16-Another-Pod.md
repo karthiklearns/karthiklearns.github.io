@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Best Podcast
-category: Podcast
-permalink: /Podcast/The-Best-Podcast
+title: Another Good Podcast
+category: Podcasts
+permalink: /Podcast/Another-Good-Podcast
 ---
 
 Another good podcast is Heavyweight. 
