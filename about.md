@@ -4,7 +4,7 @@ title: About
 permalink: /About/
 ---
 
-Hi. I'm Karthik. Welcome to my personal website. 
+Hi! I'm Karthik. Welcome to my personal website. 
 
 ## A Brief Introduction 
 I loathe writing earnestly. I find it embaressing, and relatively difficult. However, I'd like to make an exception here to spell out the reason for this blog's existance. 
@@ -23,5 +23,6 @@ Given that fear, maybe it's counterintuitive to house my writing in this space, 
 3. The certainty with which I write doesn't represent the certainty of my beliefs. A dear friend of mine is has imbued me with a deep sense that we tend to be broadly overconfident. I'd like to acknowledge that reality; however, I think that including too many disclaimers will weaken the quality of my writing, so I will try to avoid expressing this sentiment in my individual peices. 
 
 Best, 
+
 Karthik 
 
