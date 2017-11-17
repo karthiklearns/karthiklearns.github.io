@@ -18,9 +18,9 @@ Given that fear, maybe it's counterintuitive to house my writing in this space, 
 ## A Few Requests and Disclaimers 
 1. If you know me and you find this blog, let's not talk about it. I know this request is a bit pretentious and self-involved, but I guess I don't really want to talk about my writing with anyone I know right now. I'm aware that it's not very good yet, and so I hope we can all keep the snickering about it to a minimum. 
 
-2. I will be activly rewriting posts on this blog. My intention is to become a better writer, and I've heard that editing mt work is an important element of that. Moreover, especially with regards to political takes, I know from experience that my views evolve over time as I learn more. So, post dates may be inaccurate, and the content of posts may shift over time. 
+2. I will be activly rewriting posts on this blog. My intention is to become a better writer, and I've heard that editing my work is an important element of that. Moreover, especially with regards to political takes, I know from experience that my views evolve over time as I learn more. So, post dates may be inaccurate, and the content of posts may shift over time. 
 
-3. The certainty with which I write doesn't represent the certainty of my beliefs. A dear friend of mine is has imbued me with a deep sense that we tend to be broadly overconfident. I'd like to acknowledge that reality; however, I think that including too many disclaimers will weaken the quality of my writing, so I will try to avoid expressing this sentiment in my individual peices. 
+3. The certainty with which I write doesn't represent the certainty of my beliefs. A dear friend of mine is has imbued me with a deep sense that we tend to be broadly overconfident. I'd like to acknowledge that reality; however, I think that including too many disclaimers will weaken the quality of my writing, so I will try to avoid expressing that sentiment in my individual peices. 
 
 Best, 
 
